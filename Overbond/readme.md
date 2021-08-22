@@ -22,6 +22,16 @@ DCF Model valuations of value of the company, operating cash flow, gross margin 
 
 A recommendation for this firm will be the expansion of services into other security trading platforms like stocks, stock options, future contract etc. for institutional trading. This has the potential to increase the firms gross profit margins as well as gives them an avenue to collect and aggregate a larger pool of data. A new technology that Overbond has recently adapted is its voice-to-AI partnership which in collaboration with IPC to accelerate matching and trading of securities.  
 
+[Overbond_Interoperability](https://www.overbond.com/platform/bps/investor/interoperability-case-study)
+
+[AI_Driven_optimization](https://www.overbond.com/about/pr)
+
+[Overbond_and_IPC_Collaboration](https://www.businesswire.com/news/home/20210805005380/en/Overbond-and-IPC-Accelerate-Automation-of-Fixed-Income-Trading-With-Voice-to-AI-Partnership)
+
+[Capital_Market_Trends](https://www.capgemini.com/wp-content/uploads/2019/11/Capital_Market_Trends_2020.pdf)
+
+[Fintech_KPI's](https://www.vapulus.com/en/what-are-fintech-kpis/)
+
 
 
 
